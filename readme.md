@@ -8,6 +8,6 @@
     PUSHER_SECRET
     ```
 
-1. Run `npm i`
+1. Run `npm install`
 1. Build assets with `npm run dev`
 1. Use `php artisan serve`
